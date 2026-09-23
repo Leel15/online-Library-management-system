@@ -55,4 +55,5 @@ The application is structured into several modular Java classes and assets:
 
 2. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/Leel15/online-Library-management-system.git](https://github.com/Leel15/online-Library-management-system.git)
+   git clone https://github.com/Leel15/online-Library-management-system.git
+   
